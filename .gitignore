@@ -12,3 +12,11 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.utoc
+*.ucas
+*.pak
+*.exe
+PackagedMod/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+Build/WindowsNoEditor/ChunkLayerInfo/pakchunklayers.txt
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
