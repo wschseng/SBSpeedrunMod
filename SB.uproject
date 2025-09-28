@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2F6FC4E5-458B-F788-99B1-62A8036DC7FA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SB",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
